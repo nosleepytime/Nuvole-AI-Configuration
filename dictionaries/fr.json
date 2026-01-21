@@ -440,11 +440,11 @@
     "isTranslated": true
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Ne pas améliorer l'invite avec l'IA",
+    "value": "Ne pas améliorer la requête avec l'IA",
     "original": {
       "value": "Do Not Improve Prompt with AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_T_C-Next": {
@@ -752,11 +752,11 @@
     "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Améliorer l'invite en utilisant l'IA",
+    "value": "Améliorer la requête en utilisant l'IA",
     "original": {
       "value": "Improving the Prompt Using AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_H_NAME-Loading": {
@@ -1000,19 +1000,19 @@
     "isTranslated": true
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Sélectionnez si vous souhaitez améliorer l'invite pour générer des images avec l'IA",
+    "value": "Sélectionnez si vous souhaitez améliorer la requête pour générer des images avec l'IA",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Share_N_Question": {
-    "value": "Poser votre question",
+    "value": "Posez votre question",
     "original": {
       "value": "Ask Your Question"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Chat_ORG_Rename": {
@@ -1288,11 +1288,11 @@
     "isTranslated": true
   },
   "Settings_N_NAME-Voice": {
-    "value": "Entrée d'une requête",
+    "value": "Saisie d'une demande",
     "original": {
       "value": "Entering a Request"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_H_NAME-Font": {
@@ -1320,11 +1320,11 @@
     "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Améliorer l'invite avec l'IA",
+    "value": "Améliorer la requête avec l'IA",
     "original": {
       "value": "Improve Prompt with AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Error_T_Changing": {
